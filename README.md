@@ -12,3 +12,5 @@ We can optimize our time by engaging in more productive activities, rather than 
 
 
 Goal:  To reduce the amount of time students spend scrolling through social media on their devices.
+
+I just made a bottom views empty activity template
