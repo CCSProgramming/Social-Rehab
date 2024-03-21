@@ -22,7 +22,8 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="40dp"
         android:text="Analytics"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
+        android:textStyle="bold"
         android:textSize="36sp"
         android:translationX="130dp"
         android:translationY="-180dp" />
@@ -41,12 +42,14 @@
                     android:layout_width="198dp"
                     android:padding="12dp"
                     android:textSize="20sp"
+                    android:textStyle="bold"
                     android:text="Social Media Points" />
 
                 <TextView
                     android:layout_width="175dp"
                     android:padding="12dp"
                     android:textSize="20sp"
+                    android:textStyle="bold"
                     android:text="2000" />
             </TableRow>
         </TableLayout>
@@ -65,12 +68,14 @@
                     android:layout_width="198dp"
                     android:padding="12dp"
                     android:textSize="20sp"
+                    android:textStyle="bold"
                     android:text="Walking Points" />
 
                 <TextView
                     android:layout_width="175dp"
                     android:padding="12dp"
                     android:textSize="20sp"
+                    android:textStyle="bold"
                     android:text="3500" />
             </TableRow>
         </TableLayout>
@@ -89,12 +94,14 @@
                     android:layout_width="198dp"
                     android:padding="12dp"
                     android:textSize="20sp"
+                    android:textStyle="bold"
                     android:text="Productivity Points" />
 
                 <TextView
                     android:layout_width="175dp"
                     android:padding="12dp"
                     android:textSize="20sp"
+                    android:textStyle="bold"
                     android:text="4200" />
             </TableRow>
         </TableLayout>
